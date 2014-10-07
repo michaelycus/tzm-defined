@@ -1,0 +1,56 @@
+{"parts":[
+    {
+        "parte": "0",  
+        "title": "Prefácio", 
+        "url": "",
+        "chapters": [
+            { "id": "00",  "title": "Prefácio", "url":"prefacio", "description": ""}
+        ]
+    }, 
+    {
+        "part": "1",  
+        "title": "Parte I - Introdução", 
+        "url": "",
+        "chapters": [
+            { "id": "01",  "title": "Visão Geral", "url": "visao_geral", "description": "" },
+            { "id": "02",  "title": "A Visão Científica do Mundo", "url": "a_visao_cientifica_do_mundo", "description": ""},
+            { "id": "03",  "title": "Buscando Soluções", "url": "buscando_solucoes", "description": ""},
+            { "id": "04",  "title": "Lógica vs Psicologia", "url": "logica_vs_psicologia", "description": ""},
+            { "id": "05",  "title": "A Questão da Unidade Humana", "url": "a_questao_da_unidade_humana", "description": ""},
+            { "id": "06",  "title": "O Argumento Final: A Natureza Humana", "url": "o_argumento_final_a_natureza_humana", "description": ""}
+        ]
+    }, 
+    {
+        "part": "2",  
+        "title": "Parte II - Patologia Social", 
+        "url": "",
+        "chapters": [
+            { "id": "07",  "title": "Definindo Saúde Pública", "url": "definindo_saude_publica", "description": ""},
+            { "id": "08",  "title": "História da Economia", "url": "historia_da_economia", "description": ""},
+            { "id": "09",  "title": "Eficiência de Mercado vs. Eficiência Técnica", "url": "eficiencia_de_mercado_vs_eficiencia_tecnica", "description": ""},
+            { "id": "10",  "title": "Distúrbio do Sistema de Valores", "url": "disturbio_do_sistema_de_valores", "description": ""},
+            { "id": "11",  "title": "Classismo Estrutural, o Estado e a Guerra", "url": "classismo_estrutural_o_estado_e_a_guerra", "description": ""}
+        ]
+    }, 
+    {
+        "part": "3",  
+        "title": "Parte III - Uma Nova Linha de Pensamento", 
+        "url": "",
+         "chapters": [
+            { "id": "12",  "title": "Introdução ao Pensamento Sustentável", "url": "introducao_ao_pensamento_sustentavel", "description": ""},
+            { "id": "13",  "title": "Tendências Pós-Escassez, Capacidade e Eficiência", "url": "tendencias_pos_escassez_capacidade_e_eficiencia", "description": ""},
+            { "id": "14",  "title": "Fatores Econômicos Reais", "url": "fatores_economicos_reais", "description": ""},
+            { "id": "15",  "title": "O Governo Industrial", "url": "o_governo_industrial", "description": ""},
+            { "id": "16",  "title": "Estilo de vida, Liberdade e o Fator Humano", "url": "estilo_de_vida", "description": ""}
+        ]
+    }, 
+    {
+        "part": "4", 
+        "title": "Parte IV - O Movimento Zeitgeist", 
+        "url": "",
+        "chapters": [
+            { "id": "17",  "title": "Desestabilização Social e Transição", "url": "desistabilizacao_social_e_transicao", "description": ""},
+            { "id": "18",  "title": "Tornando-se o Movimento Zeitgeist", "url": "tornando_se_o_movimento_zeitgeist", "description": ""}
+        ]
+    }
+]}
