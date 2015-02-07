@@ -184,11 +184,11 @@ routerApp.config(function($stateProvider, $urlRouterProvider) {
             }
         })
 
-        .state('desistabilizacao_social_e_transicao', {
-            url: '/desistabilizacao_social_e_transicao',
+        .state('desestabilizacao_social_e_transicao', {
+            url: '/desestabilizacao_social_e_transicao',
             views: {
                 'chapters-template': { templateUrl: 'chapters-template.html' },
-                'content@desistabilizacao_social_e_transicao': { templateUrl: 'chapters/17-desistabilizacao_social_e_transicao.html' },
+                'content@desestabilizacao_social_e_transicao': { templateUrl: 'chapters/17-desestabilizacao_social_e_transicao.html' },
             }
         })
 

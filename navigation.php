@@ -31,8 +31,7 @@
 						
 					</ul>
 				</li>
-
-				<li><a ui-sref="ajude_a_traduzir">Ajude a Traduzir</a></li>
+				
 				<li><a ui-sref="creditos">Créditos</a></li>
 			</ul>
 		</nav>
