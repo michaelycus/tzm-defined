@@ -136,11 +136,11 @@ routerApp.config(function($stateProvider, $urlRouterProvider) {
             }
         })
 
-        .state('classismo_estrutural_o_estado_e_a_guerra', {
-            url: '/classismo_estrutural_o_estado_e_a_guerra',
+        .state('classicismo_estrutural_o_estado_e_a_guerra', {
+            url: '/classicismo_estrutural_o_estado_e_a_guerra',
             views: {
                 'chapters-template': { templateUrl: 'chapters-template.html' },
-                'content@classismo_estrutural_o_estado_e_a_guerra': { templateUrl: 'chapters/11-classismo_estrutural_o_estado_e_a_guerra.html' },
+                'content@classicismo_estrutural_o_estado_e_a_guerra': { templateUrl: 'chapters/11-classicismo_estrutural_o_estado_e_a_guerra.html' },
             }
         })
 
